@@ -1,4 +1,5 @@
-COVID-19 ON STUDENTS DASHBOARD
+1. COVID-19 ON STUDENTS DASHBOARD
+------------------------------------
 Excited to share my Impact of COVID-19 on Students Dashboard created using Microsoft Power BI! 📊
 This interactive dashboard provides key insights such as:
 🔹 Total Students: 1182
@@ -22,3 +23,98 @@ Looking forward to building more data-driven dashboards and analytics projects. 
 #PowerBI #DataAnalytics #DataVisualization
 #BusinessIntelligence #DashboardDesign
 #StudentAnalytics #LearningJourney
+
+2.HR Analytics Dashboard
+---------------------------
+Excited to share my HR Analytics Dashboard created using Microsoft Power BI! 📊
+This interactive dashboard provides key HR insights such as:
+🔹 Total Employees: 1470
+🔹 Attrition Status: Yes
+🔹 Average Salary Hike: 15.21%
+🔹 Total Daily Rate: 1M
+🔹 Maximum Monthly Rate: 27K
+📈 Key Insights from the Dashboard:
+• Attrition analysis by department (R&D, Sales, HR)
+• Employee attrition trend based on years at company
+• Job role-wise hourly rate comparison
+• Education field distribution of employees
+• Department-wise attrition contribution
+• Monthly income comparison across departments
+• Interactive filtering by attrition, department, and gender
+Through this project, I practiced data cleaning, data modeling, DAX measures, and data visualization using Microsoft Power BI to transform HR data into meaningful insights.
+This project is part of my Data Analytics learning journey at
+
+3.Data jobs Salary Dashboard 
+----------------------------------
+Excited to share my Data jobs Salary Dashboard created using Microsoft Power BI! 📊
+This interactive dashboard provides key insights such as:
+🔹 Total Salary: 58M
+🔹 Average Salary: 337.84K
+🔹 Median Salary: 110K
+🔹 Company Size Count: 3
+🔹 Remote Work Ratio: 38,350
+📈 Key Insights from the Dashboard:
+• Average salary comparison by job roles (Data Scientist, ML Engineer, Data Engineer, Data Analyst)
+• Country-wise salary distribution by employee residence
+• Salary trends based on experience level (MI, SE, EN, EX)
+• Year-wise salary growth analysis
+• Job title-wise salary contribution
+• Remote work distribution across experience levels
+• Interactive filtering by employment type and company location
+Through this project, I practiced data cleaning, data modeling, DAX measures, and data visualization using Microsoft Power BI to transform raw salary data into meaningful insights.
+This project is part of my Data Analytics at BesantTechnologiesBengaluru(BTM Layout).
+
+4. Retail India Dashboard 
+-------------------------
+Excited to share my Retail India Dashboard created using Microsoft Power BI! 📊
+This interactive dashboard provides key business insights such as:
+🔹 Total Sales: 659.27K
+🔹 Total Ratings: 14.86K
+🔹 Average Tax (5%): 15.21
+🔹 Max Gross Margin: 4.76
+📈 Key Insights from the Dashboard:
+• Gross income distribution by payment method (Cash, E-wallet, Credit Card)
+• Product line performance analysis
+• City-wise customer rating insights
+• Branch-wise total sales comparison
+• Gross margin percentage trends by branch and year
+• Rating and profit analysis across branches
+• Interactive filtering by branch, city, gender, and time
+Through this project, I practiced data cleaning, data modeling, DAX measures, and data visualization using Microsoft Power BI to transform raw retail data into meaningful business insights.
+This project is part of my Data Analytics learning journey at BesantTechnologiesBengaluru(BTM Layout).
+
+5. Sales Store Dashboard
+---------------------------
+Excited to share my Sales Store Dashboard created using Microsoft Power BI! 📊
+This interactive dashboard provides key business insights such as:
+🔹 Total Profit: 151.4K+
+🔹 Total Customers: 730
+🔹 Total Order Quantity: 18,146
+📈 Key Insights from the Dashboard:
+• Sales analysis by ship mode (Regular Air, Express Air)
+• Customer segmentation analysis (Corporate, Consumer, Home Office, Small Business)
+• Region-wise sales performance
+• Order quantity trends by shipping mode
+• Product category filtering (Furniture, Office Supplies, Technology)
+• Regional insights using interactive slicers
+Through this project, I practiced data cleaning, data modeling, DAX measures, and data visualization using Microsoft Power BI to transform raw data into meaningful business insights.
+This project is part of my Data Analytics learning journey at BesantTechnologiesBengaluru(BTM Layout).
+
+6.my Adidas Sales Dashboard
+--------------------------
+Excited to share my Adidas Sales Dashboard created using Power Bi! 📊
+This interactive dashboard provides key business insights such as:
+🔹 Total Sales: 120M
+ 🔹 Total Profit: 47.22M
+ 🔹 Average Price per Unit: 45.22
+ 🔹 Total Units Sold: 2M
+📈 Key Insights from the Dashboard:
+ • Sales performance by product category
+ • State-wise sales analysis
+ • Quarterly sales trends
+ • Gender-wise product category analysis
+ • Sales distribution by sales method (Online, Outlet, In-store)
+ • Top 5 cities profit comparison
+ • Retailer-wise average operating profit
+Through this project, I practiced data cleaning, pivot tables, charts, slicers, and dashboard design using Power Bi to transform raw data into meaningful business insights.
+This project is part of my Data Analytics learning journey at Besant Technologies Bengaluru (BTM Layout).
